@@ -124,7 +124,7 @@ import {
       company_name: "Raben Management Services",
       icon: raben,
       iconBg: "#fff",
-      date: "May 2023 - Present",
+      date: "May 2023 - Jan 2024",
       points: [
         "Working in IT support team on a helpdesk, using SQLDeveloper, Linux and some proprietary software from e2open.",
       ],
