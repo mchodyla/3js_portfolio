@@ -167,25 +167,25 @@ import {
         },
       ],
       image: thissite,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/mchodyla/3js_portfolio",
     },
-    {
-      name: "Some Next.js project",
-      description:
-        "Coming soon",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
-    },
+    // {
+    //   name: "Some Next.js project",
+    //   description:
+    //     "Coming soon",
+    //   tags: [
+    //     {
+    //       name: "nextjs",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "tailwind",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: tripguide,
+    //   source_code_link: "https://github.com/",
+    // },
   ];
   
   export { services, technologies, experiences, projects };
